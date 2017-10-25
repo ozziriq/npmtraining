@@ -1,0 +1,19 @@
+{
+  "name": "@ozziriq/nodetraining",
+  "version": "1.0.0",
+  "description": "training node from freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oskar Johansson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozziriq/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ozziriq/nodejs/issues"
+  },
+  "homepage": "https://github.com/ozziriq/nodejs#readme"
+}
