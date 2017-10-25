@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ozziriq/nodejs/issues"
   },
-  "homepage": "https://github.com/ozziriq/nodejs#readme"
+  "homepage": "https://github.com/ozziriq/nodejs#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
